@@ -4,6 +4,8 @@ fun main() {
 
     birinciFonksiyon()
 
+
+
 }
 
 fun birinciFonksiyon() {
