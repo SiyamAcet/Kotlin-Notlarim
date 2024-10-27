@@ -23,4 +23,8 @@ fun main() {
     superman.yas = 26
     superman.isim = "Can"
 
+    //boş veri tipi değişkeni oluşturmayı sağlar ama sadece özel veri tipleri için
+
+    lateinit var benimKahraman : Superkahraman
+
 }
